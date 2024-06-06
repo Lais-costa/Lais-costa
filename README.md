@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="/Logo.jpg"  />
+<img align="right" height="150" src="/Lais-costa.jpg"  />
 
 ###
 
