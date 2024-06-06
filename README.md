@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.canva.com/design/DAGHXX2S6cU/WpRAIhURhvVLzN0YZkt3yQ/view"  />
+<img align="right" height="150" src="/Logo.jpg"  />
 
 ###
 
